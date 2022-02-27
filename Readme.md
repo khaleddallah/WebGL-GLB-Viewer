@@ -11,4 +11,4 @@ GLB viewer, built with Unity3d
 
 
 # Libraries:      
-3. GltfUtility    
+1. GltfUtility    
